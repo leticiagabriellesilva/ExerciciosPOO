@@ -14,6 +14,6 @@ Adicionar atributos e métodos:
 
 Adicione os atributos e métodos especificados no diagrama de classes às classes Java correspondentes.
 
-Modelo escolhido: B
+Modelo escolhido: Exercico_heranca.B
 
 ![image](https://github.com/user-attachments/assets/84a1c31c-b74f-4418-8e62-0b81520f0b9d)
