@@ -1,4 +1,4 @@
-package formatos;
+package Formatos;
 
 public class Triangulo extends Forma2D {
     @Override

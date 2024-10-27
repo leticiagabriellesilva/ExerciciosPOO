@@ -1,6 +1,4 @@
-package formatos;
-
-import java.text.Normalizer;
+package Formatos;
 
 public class Desenho {
     public void ilustrar(Forma2D forma2D){

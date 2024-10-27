@@ -1,4 +1,4 @@
-package formatos;
+package Formatos;
 
 public class Forma2D {
     private String cor;

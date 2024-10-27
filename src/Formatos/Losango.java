@@ -1,4 +1,4 @@
-package formatos;
+package Formatos;
 
 public class Losango extends Forma2D{
     @Override
